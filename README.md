@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://benniu04.github.io/Personal_Website/](https://benniu04.github.io/Personal_Website/)
+- 👨‍💻 All of my projects are available at [https://personal-website-actual.vercel.app/](https://personal-website-actual.vercel.app/)
 
 - 📫 How to reach me **nub38bn@gmail.com**
 
